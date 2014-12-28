@@ -1,0 +1,207 @@
+<section id="separator-testimonials" data-stellar-background-ratio="0.7" >
+                <div class="row text-center" style="position:relative;">
+                	<div class="parallax-overlay"></div> 
+                    <div class="liquid-slider" style="z-index: 3;" id="testimonials-slider">
+                    	<div class="col-lg-12 testimonials text-center">
+                        	<img class="testimonial-img" src="img/testimonial-1.jpg"/>
+                        	<h4><i class="fa fa-quote-left highlight"></i> <small class="white">I have been extremely impressed with Wunderkind. It is a pleasure working<br>with</small> <span class="highlight">hihly creative</span><small class="white"> and inovative team. </small> <i class="fa fa-quote-right highlight"></i></h4>
+                        	<p class="label label-primary">Jane Awesome - Big Corp</p>         
+                        </div>
+                        <div class="col-lg-12 testimonials text-center">
+                        	<img class="testimonial-img" src="img/testimonial-2.jpg"/>
+                        	<h4><i class="fa fa-quote-left highlight"></i> <small class="white">This is now the third time I've worked with Wunderkind and the service they<br>provide is amazing.</small> <span class="highlight">Thank you guys!</span> <i class="fa fa-quote-right highlight"></i></h4>
+                        	<p class="label label-primary">Jack Smith - Spaceship Corp</p>         
+                        </div>
+                        <div class="col-lg-12 testimonials text-center">
+                        	<img class="testimonial-img" src="img/testimonial-3.jpg"/>
+                        	<h4><i class="fa fa-quote-left highlight"></i> <small class="white">I love Wunderkind. Absolutely amazing results and experience creating my website.<br> An environment where you interact with </small> <span class="highlight">incredible talent!</span> <i class="fa fa-quote-right highlight"></i></h4>
+                        	<p class="label label-primary">John Jackson - Galaxy Corp</p>         
+                        </div>
+                	</div>
+                </div>
+            </section>
+        	<!-- End Separator Testimonials -->
+            
+            <!-- Start Clients -->
+            <section id="clients">
+                <div class="container">
+                    <div class="col-lg-12 section-title-clients wow flipInX">
+                        <h2><small>World Brands Are Some Of</small><br><strong>Our Satisfied Clients</strong></h2>
+                        <p class="lead">Digital agency that loves designing <span class="highlight">great websites.</span></p>
+                    </div>
+                    
+                    <div class="clients-logos">
+                    	<div class="col-sm-2 col-xs-4">
+                        	<a href="#"><img class="img-responsive" src="img/client-1.jpg"/></a>
+                        </div>
+                        <div class="col-sm-2 col-xs-4">
+                        	<a href="#"><img class="img-responsive" src="img/client-2.jpg"/></a>
+                        </div>
+                        <div class="col-sm-2 col-xs-4">
+                        	<a href="#"><img class="img-responsive" src="img/client-3.jpg"/></a>
+                        </div>
+                        <div class="col-sm-2 col-xs-4">
+                        	<a href="#"><img class="img-responsive" src="img/client-4.jpg"/></a>
+                        </div>
+                        <div class="col-sm-2 col-xs-4">
+                        	<a href="#"><img class="img-responsive" src="img/client-5.jpg"/></a>
+                        </div>
+                        <div class="col-sm-2 col-xs-4">
+                        	<a href="#"><img class="img-responsive" src="img/client-6.jpg"/></a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- End Clients -->
+
+            <!-- Start Get Connected -->
+            <section id="get-connected" data-stellar-background-ratio="0.7">
+                <div class="row text-center" style="position:relative;">
+                	<div class="parallax-overlay"></div> 
+                	
+                    <div class="container connected-row text-center wow flipInX">
+                            <h2><small class="white">Get Connected <br></small>Follow Us</h2>
+                            <p class="lead">Get connected with us on social networks!</p>
+
+                    	<ul class="connected-icons text-center">
+                            
+ 							<li class="connected-icon"><a target="_blank" href="#">
+                                	<span class="fa-stack fa-lg fa-4x">
+                                     	<i class="fa fa-circle fa-stack-2x"></i>
+                                    	<i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                                	</span><br>
+                                    <span class="lead">Facebook</span><br>
+                                    <span class="white">Be Our Friend</span>
+                                </a>
+                            </li>
+                            
+                            <li class="connected-icon"><a target="_blank" href="#">
+                                	<span class="fa-stack fa-lg fa-4x">
+                                     	<i class="fa fa-circle fa-stack-2x"></i>
+                                    	<i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                	</span><br>
+                                    <span class="lead">Twitter</span><br>
+                                    <span class="white">Follow Us</span>
+                                </a>
+                            </li>
+                            
+                            <li class="connected-icon"><a target="_blank" href="#">
+                                	<span class="fa-stack fa-lg fa-4x">
+                                     	<i class="fa fa-circle fa-stack-2x"></i>
+                                    	<i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                                	</span><br>
+                                    <span class="lead">Instagram</span><br>
+                                    <span class="white">See Our Pictures</span>
+                                </a>
+                            </li>
+                            
+                            <li class="connected-icon"><a target="_blank" href="#">
+                                	<span class="fa-stack fa-lg fa-4x">
+                                     	<i class="fa fa-circle fa-stack-2x"></i>
+                                    	<i class="fa fa-youtube-play fa-stack-1x fa-inverse"></i>
+                                	</span><br>
+                                    <span class="lead">Youtube</span><br>
+                                    <span class="white">Watch Our Videos</span>
+                                </a>
+                            </li>
+                            
+                            <li class="connected-icon"><a target="_blank" href="#">
+                                	<span class="fa-stack fa-lg fa-4x">
+                                     	<i class="fa fa-circle fa-stack-2x"></i>
+                                    	<i class="fa fa-google-plus-square fa-stack-1x fa-inverse"></i>
+                                	</span><br>
+                                    <span class="lead">Google+</span><br>
+                                    <span class="white">Join Our Circle</span>
+                                </a>
+                            </li>
+                            
+                            <li class="connected-icon"><a target="_blank" href="#">
+                                	<span class="fa-stack fa-lg fa-4x">
+                                     	<i class="fa fa-circle fa-stack-2x"></i>
+                                    	<i class="fa fa-vimeo-square fa-stack-1x fa-inverse"></i>
+                                	</span><br>
+                                    <span class="lead">Vimeo</span><br>
+                                    <span class="white">Check Out New Videos</span>
+                                </a>
+                            </li>
+                            
+                    	</ul>        
+                	</div>    
+                </div>
+            </section>
+            <!-- End Get Connected -->    
+            
+            <!-- Start Price List -->
+            <section id="price-list">
+                <div class="container">
+                    <div class="col-lg-12 section-title-price wow flipInX">
+                        <h2><small>Pick Some of</small><br><strong>Our Latest Offers</strong></h2>
+                        <p class="lead">Pick a plan that <span class="highlight">best suits</span> your needs.</p>
+                    </div>
+                    <div class="price-container">     
+                    	<div class="row">   
+                        	
+							<div class="col-md-4 col-sm-4 wow flipInY">
+                            	<div class="price-box text-center">
+                               		<div class="price-box-info">
+                                    	<h2>Free</h2>
+                                        <h2>0<span>$</span><small>/mon.</small></h2>
+                                    </div>  
+                                    <div class="price-box-offer">
+                                       <ul class="offer-list">
+                                       	<li><span>Full</span> Email Support</li>
+                                        <li><span>25</span> Projects</li>
+                                        <li><i class="icon ion-close-round"></i></li>
+                                        <li><i class="icon ion-close-round"></i></li>
+                                       </ul>
+                                    </div>
+                                    <div class="sign-up-btn">
+                                    	<a href="#"><button type="button" class="btn btn-primary">Sign Up Now</button></a>
+                                    </div>
+                            	</div>           
+                            </div>
+                            
+                            <div class="col-md-4 col-sm-4 wow flipInX">
+                            	<div class="price-box-big text-center">
+                               		<div class="price-box-info">
+                                    	<h1>Pro</h1>
+                                        <h2>25<span>$</span><small>/mon.</small></h2>
+                                    </div>  
+                                    <div class="price-box-offer">
+                                       <ul class="offer-list">
+                                       	<li><span>Full</span> Email Support</li>
+                                        <li><span>Unlimited</span> Projects</li>
+                                        <li><span>Unlimited</span> Users</li>
+                                        <li><span>1000GB</span> Storage</li>
+                                       </ul>
+                                    </div>
+                                    <div class="sign-up-btn">
+                                    	<a href="#"><button type="button" class="btn btn-primary btn-lg">Sign Up Now</button></a>
+                                    </div>
+                            	</div>           
+                            </div>
+                            
+                            <div class="col-md-4 col-sm-4 wow flipInY">
+                            	<div class="price-box text-center">
+                               		<div class="price-box-info">
+                                    	<h2>Basic</h2>
+                                        <h2>15<span>$</span><small>/mon.</small></h2>
+                                    </div>  
+                                    <div class="price-box-offer">
+                                       <ul class="offer-list">
+                                       	<li><span>Full</span> Email Support</li>
+                                        <li><span>Unlimited</span> Projects</li>
+                                        <li><span>Unlimited</span> Users</li>
+                                        <li><span>500GB</span> Storage</li>
+                                       </ul>
+                                    </div>
+                                    <div class="sign-up-btn">
+                                    	<a href="#"><button type="button" class="btn btn-primary">Sign Up Now</button></a>
+                                    </div>
+                            	</div>           
+                            </div>
+                                                                   
+                    	</div>        
+                	</div>
+            	</div>
+            </section>        
